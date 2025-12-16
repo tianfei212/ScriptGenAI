@@ -59,7 +59,8 @@ View your app in AI Studio: https://ai.studio/apps/drive/15CQEHT9TSpPLHAcHYDI_qi
 
 首次进入系统，您需要配置 **Google Gemini API Key** 才能使用 AI 服务。
 
-> 📸 **[在此处插入截图：欢迎界面/API Key 输入弹窗]**
+> <img width="996" height="656" alt="image" src="https://github.com/user-attachments/assets/718154da-3b32-410a-b9e6-7a2de055713d" />
+
 >
 > *图示说明：在欢迎页点击“开始创作”，输入您的 API Key。*
 
@@ -87,13 +88,15 @@ View your app in AI Studio: https://ai.studio/apps/drive/15CQEHT9TSpPLHAcHYDI_qi
 4.  设定目标时长（30秒 - 3分钟）。
 5.  点击 **“生成 5 个方案”**。
 
-> 📸 **[在此处插入截图：创意输入区域，展示类型和导演选择器]**
+><img width="2016" height="652" alt="image" src="https://github.com/user-attachments/assets/a73d96ba-a843-4b96-8f7f-b413dce11f96" />
+
 >
 > *图示说明：配置创意参数并生成剧本。*
 
 生成后，下方会出现多个剧本标签页。您可以点击切换不同方案，并使用工具栏中的“改写”、“扩写”或“润色”功能对选定剧本进行迭代。
 
-> 📸 **[在此处插入截图：剧本多标签页及编辑工具栏]**
+> <img width="2196" height="1134" alt="image" src="https://github.com/user-attachments/assets/62eb0042-693e-4935-bcca-f0da8b393ca5" />
+
 >
 > *图示说明：查看不同版本的剧本并使用 AI 工具栏进行修改。*
 
@@ -107,8 +110,10 @@ AI 会自动分析当前剧本，提取所有登场角色的性格、外貌特�
 2.  系统将生成角色卡片。您可以手动修改角色的名字或描述。
 3.  点击卡片下方的 **“生成生图提示词”**，AI 将为该角色生成标准化的形象 Prompt，确保后续画面中人物一致。
 
-> 📸 **[在此处插入截图：角色卡片列表]**
->
+> <img width="1508" height="560" alt="image" src="https://github.com/user-attachments/assets/ab7e18d4-2569-4a5e-9e0a-c25df7defb86" />
+
+><img width="1322" height="1054" alt="image" src="https://github.com/user-attachments/assets/160a73d8-975f-43b3-be41-174d9edaf03a" />
+
 > *图示说明：角色卡片展示及提示词生成按钮。*
 
 ### 3.3 分镜脚本与画面设计 (Storyboard)
@@ -124,7 +129,8 @@ AI 会自动分析当前剧本，提取所有登场角色的性格、外貌特�
     * **Camera**: 运镜方式（如推拉摇移）
 3.  您可以在表格中直接编辑任何单元格内容。
 
-> 📸 **[在此处插入截图：分镜表格 (Storyboard Table)]**
+> <img width="2056" height="1576" alt="image" src="https://github.com/user-attachments/assets/68931e2b-7d65-45a5-b141-c8f506b1657b" />
+
 >
 > *图示说明：详细的分镜列表，展示画面、声音和机位信息。*
 
@@ -142,7 +148,8 @@ ScriptGenAI 最大的亮点是内置了专业的提示词编辑器。
 * 查看 Gemini 和 Midjourney 两种格式的 Prompt。
 * 使用 **“AI 局部修改 (Refine)”** 功能，用自然语言调整提示词（例如输入：*“把光线调暗一点，增加赛博朋克霓虹灯”*）。
 
-> 📸 **[在此处插入截图：PromptEditorModal 弹窗]**
+> <img width="1328" height="1066" alt="image" src="https://github.com/user-attachments/assets/c95084f1-8f98-48ec-ba09-d16cb1a0c08d" />
+
 >
 > *图示说明：提示词高级编辑器，展示 MJ/Gemini 双提示词及 AI 修改输入框。*
 
@@ -155,7 +162,8 @@ ScriptGenAI 最大的亮点是内置了专业的提示词编辑器。
 1.  点击 **“生成所有关键帧 (Generate All Keyframes)”**。AI 会将每个镜头进一步拆解为 12 帧的连续动作描述。
 2.  基于关键帧，点击 **`Gen Prompt`** 生成视频生成专用的提示词。
 
-> 📸 **[在此处插入截图：关键帧表格与视频提示词区域]**
+> <img width="2104" height="982" alt="image" src="https://github.com/user-attachments/assets/c5b0e8e4-5e44-452d-8839-46fba7a9efd4" />
+
 >
 > *图示说明：关键帧拆解详情及视频模型专用提示词。*
 
@@ -165,7 +173,8 @@ ScriptGenAI 最大的亮点是内置了专业的提示词编辑器。
 
 系统根据分镜的时长信息，自动在时间轴上生成预览轨道，帮助您把控视频节奏。
 
-> 📸 **[在此处插入截图：时间轴编辑器 (Timeline)]**
+> <img width="2128" height="812" alt="image" src="https://github.com/user-attachments/assets/2f612a8c-1eef-4eec-b95e-f0e37b94b545" />
+
 >
 > *图示说明：可视化时间轴，展示视频轨、音频轨和字幕轨的排布。*
 
@@ -173,7 +182,8 @@ ScriptGenAI 最大的亮点是内置了专业的提示词编辑器。
 
 点击左下角的“查看知识图谱”，以可视化节点的形式查看角色关系、地点关联和核心视觉元素。这对于检查剧情逻辑漏洞非常有用。
 
-> 📸 **[在此处插入截图：知识图谱弹窗]**
+><img width="1784" height="1502" alt="image" src="https://github.com/user-attachments/assets/70cfb65d-b9d2-48ab-8c72-f67fba8efc8a" />
+
 >
 > *图示说明：节点连接图，展示角色与场景的关联。*
 
@@ -184,7 +194,8 @@ ScriptGenAI 最大的亮点是内置了专业的提示词编辑器。
 * **JSON 导出**：点击顶部的“导出 JSON”按钮，您可以将包含剧本、角色、分镜、提示词的完整项目文件保存到本地，便于备份或迁移。
 * **成本监控**：左侧边栏实时显示 Token 消耗量和预估费用（基于 Google Gemini 定价），让您的 AI 创作成本透明可控。
 
-> 📸 **[在此处插入截图：侧边栏成本统计模块]**
+> <img width="442" height="648" alt="image" src="https://github.com/user-attachments/assets/65af16e7-82e1-44bf-9a04-90a45613d8f1" />
+
 >
 > *图示说明：Token 消耗与费用预估面板。*
 
