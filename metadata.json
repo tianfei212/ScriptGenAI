@@ -1,0 +1,5 @@
+{
+  "name": "一句话进行微短剧创作",
+  "description": "A node-based creative workflow studio using Gemini 3 and Veo to transform ideas into images, videos, and audio.",
+  "requestFramePermissions": []
+}
